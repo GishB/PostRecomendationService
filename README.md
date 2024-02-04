@@ -1,5 +1,5 @@
 # Post recomendation service.
-- This project has been created as a result of pet project at Karpov.Courses.
+- This project has been created as a result of pet project at Karpov.Courses Start ML.
 
 TO DO:
 
